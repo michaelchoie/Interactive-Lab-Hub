@@ -105,7 +105,11 @@ Try physically acting out the interaction you planned. For now, you can just pre
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
 
+I think that the functionality seemed quite simple and straight forward, but in reality, there's many moving parts and thus many points of failure. For example, I found that connecting my phone to Alexa and the Razer hardware would oftentimes go offline. Additionally, Alexa's Speech-to-text functionality would sometimes not work, and I'd have to try to pronounce things a bit more clearly. Finally, WiFi connectivity presents some issues, especially with respect to the proposed functionality of keeping track of time (e.g., does it assume that the session is over or does it keep track on local?)
+
 \*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
+
+Not particularly, we had come up with many ideas prior to the acting and thus there was not much more ideation at this time.
 
 
 ## Part C. Prototype the device
@@ -119,6 +123,8 @@ We invented this tool for this lab!
 If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
 
 \*\***Give us feedback on Tinkerbelle.**\*\*
+
+The Tinkerbelle is really cool and a great foundation for our tasks. What would be helpful to include in the future would be additional functionalities such as being able to create sequences of color, blinking of colors, etc. This way, student's would be able to make more interesting product demos.
 
 
 ## Part D. Wizard the device
