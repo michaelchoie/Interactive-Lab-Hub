@@ -135,7 +135,8 @@ Take a little time to set up the wizarding set-up that allows for someone to rem
 
 \*\***Include your first attempts at recording the set-up video here.**\*\*
 
-![WizardDeviceVideo](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/e9b936bbc323c309b5c5912e90fcee50d9e5bd16/Lab%201/WizardDeviceVideo.mp4)
+[![WizardDeviceVideo](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/86a3c327eebbf25ee950b2729b0d0babd8f87f40/Lab%201/Lab%201%20-%20Storyboards/WizardDeviceScreenCap.png)](https://drive.google.com/file/d/11PoxDuobporzU4qhU1DX1NLiVATT6AzM/view?usp=sharing)
+
 
 Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
 
