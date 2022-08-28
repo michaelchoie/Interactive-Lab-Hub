@@ -75,24 +75,29 @@ Storyboards are a tool for visually exploring a users interaction with a device.
 
 \*\***Include pictures of your storyboards here**\*\*
 
-![Page1](./Lab 1 - Storyboards/Page1.png)
+![Page1](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/2ee0b09042cecd91fd31534f204e557fa7194937/Lab%201/Lab%201%20-%20Storyboards/Page1.png)
 
-![Page2](./Lab 1 - Storyboards/Page2.png)
+![Page2](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/2ee0b09042cecd91fd31534f204e557fa7194937/Lab%201/Lab%201%20-%20Storyboards/Page2.png)
 
-![Page3](./Lab 1 - Storyboards/Page3.png)
+![Page3](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/2ee0b09042cecd91fd31534f204e557fa7194937/Lab%201/Lab%201%20-%20Storyboards/Page3.png)
 
-![Page4](./Lab 1 - Storyboards/Page4.png)
+![Page4](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/2ee0b09042cecd91fd31534f204e557fa7194937/Lab%201/Lab%201%20-%20Storyboards/Page4.png)
 
-![Page5](./Lab 1 - Storyboards/Page5.png)
+![Page5](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/2ee0b09042cecd91fd31534f204e557fa7194937/Lab%201/Lab%201%20-%20Storyboards/Page5.png)
 
-![Page6](./Lab 1 - Storyboards/Page6.png)
+![Page6](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/2ee0b09042cecd91fd31534f204e557fa7194937/Lab%201/Lab%201%20-%20Storyboards/Page6.png)
 
-![Page7](./Lab 1 - Storyboards/Page7.png)
+![Page7](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/2ee0b09042cecd91fd31534f204e557fa7194937/Lab%201/Lab%201%20-%20Storyboards/Page7.png)
 
 Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
 
 \*\***Summarize feedback you got here.**\*\*
 
+Calvin Tirrell: 
+> Great visuals on the storyboards and it’s clear what the device will be used for when you act it out. Simple, functional and effective! The only thing I find a bit odd is the flow of the frames and where they’re located but it might just be me. It’s not a big deal since you labeled the frames accordingly but just a small thing
+
+Brian Mulyadi:
+> Clear storyboard! Maybe something that is missing is the controller, meaning what John does to set these up - something along via an app or via a physical device. But other than that, all good! I particularly like the page 3 functionality :)
 
 ## Part B. Act out the Interaction
 
