@@ -71,6 +71,9 @@ The interactive device can be anything *except* a computer, a tablet computer or
 
 \*\***Describe your setting, players, activity and goals here.**\*\*
 
+I have designed an interactive device that serves as a Smart Productivity tool that uses light to denote the progress of one's workload. It would change hue based on how much work is left on the integrated to-do list (e.g., red -> yellow -> green), and it would change in the intensity of its color based on the time spent on those tasks. And rather than the user having to manually update their tasks on the todo list, they can use their voice and Amazon Alexa to update it automatically. I envision this product to be a home-office staple. This will generally be used when somebody starts their workday or study session. The goal here is to help users understand their workload and also help them make educated decisions on when to take breaks.
+
+
 Storyboards are a tool for visually exploring a users interaction with a device. They are a fast and cheap method to understand user flow, and iterate on a design before attempting to build on it. Take some time to read through this explanation of [storyboarding in UX design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/). Sketch seven storyboards of the interactions you are planning. **It does not need to be perfect**, but must get across the behavior of the interactive device and the other characters in the scene. 
 
 \*\***Include pictures of your storyboards here**\*\*
@@ -131,6 +134,8 @@ The Tinkerbelle is really cool and a great foundation for our tasks. What would 
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
 \*\***Include your first attempts at recording the set-up video here.**\*\*
+
+![WizardDeviceVideo](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/e9b936bbc323c309b5c5912e90fcee50d9e5bd16/Lab%201/WizardDeviceVideo.mp4)
 
 Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
 
