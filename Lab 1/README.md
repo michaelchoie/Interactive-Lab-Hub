@@ -142,6 +142,8 @@ Now, hange the goal within the same setting, and update the interaction with the
 
 \*\***Show the follow-up work here.**\*\*
 
+![FollowUpWork](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/19b6a758ae31a0c581984195d45fccc460187a28/Lab%201/Lab%201%20-%20Storyboards/Lab%201%20-%20Costumed%20Device%20Sketches.png)
+
 
 ## Part E. Costume the device
 
