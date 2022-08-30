@@ -135,7 +135,7 @@ Take a little time to set up the wizarding set-up that allows for someone to rem
 
 \*\***Include your first attempts at recording the set-up video here.**\*\*
 
-[![WizardDeviceVideo](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/86a3c327eebbf25ee950b2729b0d0babd8f87f40/Lab%201/Lab%201%20-%20Storyboards/WizardDeviceScreenCap.png)](https://drive.google.com/file/d/11PoxDuobporzU4qhU1DX1NLiVATT6AzM/view?usp=sharing)
+[![WizardDeviceVideo](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/86a3c327eebbf25ee950b2729b0d0babd8f87f40/Lab%201/Lab%201%20-%20Storyboards/WizardDeviceScreenCap.png)](https://drive.google.com/file/d/15V_cmwZjicd1kwCpcrKrhP4gITB2rjh8/view?usp=sharing)
 
 
 Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
@@ -163,8 +163,17 @@ Think about the setting of the device: is the environment a place where the devi
 
 \*\***Take a video of your prototyped interaction.**\*\*
 
+> Keyboard Change
+[![KeyboardChange](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/c8bc7a718f213c8d0cfa2309002e803db6d35b39/Lab%201/Lab%201%20-%20Storyboards/Wizard.png)](https://drive.google.com/file/d/1daSk7Bp7CCZrERIpEoBXmPk8kIgIv8r-/view?usp=sharing)
+> Productivity Timer
+[![ProductivityTimer](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/c8bc7a718f213c8d0cfa2309002e803db6d35b39/Lab%201/Lab%201%20-%20Storyboards/Productivity%20Tracker.png)](https://drive.google.com/file/d/1YjNcWjwkb1Amy4rgknBMGxFXj_rpNQ76/view?usp=sharing)
+> Alexa Task Updater
+[![TaskUpdater](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/c8bc7a718f213c8d0cfa2309002e803db6d35b39/Lab%201/Lab%201%20-%20Storyboards/Task%20Completed.png)](https://drive.google.com/file/d/1szP6W1vxUsPLA2dqktGdy4EjYC0Eta81/view?usp=sharing)
+
+
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
+> I would like to thank the examples of previous labs, especially Panda Xu 2 years ago: https://github.com/30PandaX/Interactive-Lab-Hub/tree/Spring2021/Lab%201. Additionally, I would like to thank Razer, as I have utilized their hardware and integrations with Alexa specifically in order to conduct this exercise. 
 
 
 
