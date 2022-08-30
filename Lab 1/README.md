@@ -71,7 +71,7 @@ The interactive device can be anything *except* a computer, a tablet computer or
 
 \*\***Describe your setting, players, activity and goals here.**\*\*
 
-I have designed an interactive device that serves as a Smart Productivity tool that uses light to denote the progress of one's workload. It would change hue based on how much work is left on the integrated to-do list (e.g., red -> yellow -> green), and it would change in the intensity of its color based on the time spent on those tasks. And rather than the user having to manually update their tasks on the todo list, they can use their voice and Amazon Alexa to update it automatically. I envision this product to be a home-office staple. This will generally be used when somebody starts their workday or study session. The goal here is to help users understand their workload and also help them make educated decisions on when to take breaks.
+> I have designed an interactive device that serves as a Smart Productivity tool that uses light to denote the progress of one's workload. It would change hue based on how much work is left on the integrated to-do list (e.g., red -> yellow -> green), and it would change in the intensity of its color based on the time spent on those tasks. And rather than the user having to manually update their tasks on the todo list, they can use their voice and Amazon Alexa to update it automatically. I envision this product to be a home-office staple. This will generally be used when somebody starts their workday or study session. The goal here is to help users understand their workload and also help them make educated decisions on when to take breaks. In terms of the players, the relevant personnel are the individuals who link their device to their calendar as well as the folks who may interact with those individuals while they are working. 
 
 
 Storyboards are a tool for visually exploring a users interaction with a device. They are a fast and cheap method to understand user flow, and iterate on a design before attempting to build on it. Take some time to read through this explanation of [storyboarding in UX design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/). Sketch seven storyboards of the interactions you are planning. **It does not need to be perfect**, but must get across the behavior of the interactive device and the other characters in the scene. 
@@ -108,11 +108,11 @@ Try physically acting out the interaction you planned. For now, you can just pre
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
 
-I think that the functionality seemed quite simple and straight forward, but in reality, there's many moving parts and thus many points of failure. For example, I found that connecting my phone to Alexa and the Razer hardware would oftentimes go offline. Additionally, Alexa's Speech-to-text functionality would sometimes not work, and I'd have to try to pronounce things a bit more clearly. Finally, WiFi connectivity presents some issues, especially with respect to the proposed functionality of keeping track of time (e.g., does it assume that the session is over or does it keep track on local?)
+> I think that the functionality seemed quite simple and straight forward, but in reality, there's many moving parts and thus many points of failure. For example, I found that connecting my phone to Alexa and the Razer hardware would oftentimes go offline. Additionally, Alexa's Speech-to-text functionality would sometimes not work, and I'd have to try to pronounce things a bit more clearly. Finally, WiFi connectivity presents some issues, especially with respect to the proposed functionality of keeping track of time (e.g., does it assume that the session is over or does it keep track on local?)
 
 \*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
 
-Not particularly, we had come up with many ideas prior to the acting and thus there was not much more ideation at this time.
+> Not particularly, we had come up with many ideas prior to the acting and thus there was not much more ideation at this time.
 
 
 ## Part C. Prototype the device
@@ -127,7 +127,7 @@ If you run into technical issues with this tool, you can also use a light switch
 
 \*\***Give us feedback on Tinkerbelle.**\*\*
 
-The Tinkerbelle is really cool and a great foundation for our tasks. What would be helpful to include in the future would be additional functionalities such as being able to create sequences of color, blinking of colors, etc. This way, student's would be able to make more interesting product demos.
+> The Tinkerbelle is really cool and a great foundation for our tasks. What would be helpful to include in the future would be additional functionalities such as being able to create sequences of color, blinking of colors, etc. This way, student's would be able to make more interesting product demos.
 
 
 ## Part D. Wizard the device
@@ -152,9 +152,12 @@ Only now should you start worrying about what the device should look like. Devel
 Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? Does it need to have bright colors in an emergency setting?
 
 \*\***Include sketches of what your devices might look like here.**\*\*
+![sketch1](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/bd393b5aa3447af60d4472ceb01a8a2ba53c18ac/Lab%201/Lab%201%20-%20Storyboards/Costumes/Page1.png)
+![sketch2](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/bd393b5aa3447af60d4472ceb01a8a2ba53c18ac/Lab%201/Lab%201%20-%20Storyboards/Costumes/Page2.png)
+![sketch3](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/bd393b5aa3447af60d4472ceb01a8a2ba53c18ac/Lab%201/Lab%201%20-%20Storyboards/Costumes/Page3.png)
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
-
+> The concern I have is that the LED light medium must be connected to wifi so that it can update appropriately. Therefore, albeit I wish to make the design small and sleek, it may be limited by the hardware necessary to receive wifi signals. 
 
 ## Part F. Record
 
