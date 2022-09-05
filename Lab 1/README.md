@@ -206,3 +206,5 @@ Do last week’s assignment again, but this time:
 3) We will be grading with an emphasis on creativity. 
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
+
+> For part 2, I have retained my original idea, which is an interactive device that serves as a Smart Productivity tool that uses light to denote the progress of one's workload, but this time, I have also added sound and vibration. The idea is that people who are working or studying need to be alerted to a certain sign; they might be too much in the zone to pay attention to say a color - especially if they have headphones in. Therefore, it would not only change hue based on how much work is left on the integrated to-do list (e.g., red -> yellow -> green), nor just change in the intensity of its color based on the time spent on those tasks, but also vibrate and beep to further alert the user what had occurred. 
