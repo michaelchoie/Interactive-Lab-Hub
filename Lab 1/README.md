@@ -208,3 +208,21 @@ Do last week’s assignment again, but this time:
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
 
 > For part 2, I have retained my original idea, which is an interactive device that serves as a Smart Productivity tool that uses light to denote the progress of one's workload, but this time, I have also added sound and vibration. The idea is that people who are working or studying need to be alerted to a certain sign; they might be too much in the zone to pay attention to say a color - especially if they have headphones in. Therefore, it would not only change hue based on how much work is left on the integrated to-do list (e.g., red -> yellow -> green), nor just change in the intensity of its color based on the time spent on those tasks, but also vibrate and beep to further alert the user what had occurred. 
+
+
+\*\***Include pictures of your storyboards here**\*\*
+
+![Page1](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/daa131d34328e92905e4bf5bf8130da0ee60124d/Lab%201/Lab%201%20-%20Storyboards/Storyboards%20Part%202/Page1.png)
+
+![Page2](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/daa131d34328e92905e4bf5bf8130da0ee60124d/Lab%201/Lab%201%20-%20Storyboards/Storyboards%20Part%202/Page2.png)
+
+![Page3](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/daa131d34328e92905e4bf5bf8130da0ee60124d/Lab%201/Lab%201%20-%20Storyboards/Storyboards%20Part%202/Page3.png)
+
+![Page4](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/daa131d34328e92905e4bf5bf8130da0ee60124d/Lab%201/Lab%201%20-%20Storyboards/Storyboards%20Part%202/Page4.png)
+
+![Page5](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/daa131d34328e92905e4bf5bf8130da0ee60124d/Lab%201/Lab%201%20-%20Storyboards/Storyboards%20Part%202/Page5.png)
+
+![Page6](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/daa131d34328e92905e4bf5bf8130da0ee60124d/Lab%201/Lab%201%20-%20Storyboards/Storyboards%20Part%202/Page6.png)
+
+![Page7](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/daa131d34328e92905e4bf5bf8130da0ee60124d/Lab%201/Lab%201%20-%20Storyboards/Storyboards%20Part%202/Page7.png)
+
