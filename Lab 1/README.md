@@ -188,6 +188,16 @@ You will be assigned three partners from another group. Go to their github pages
 
 \*\***Summarize feedback from your partners here.**\*\*
 
+Hongjiao Zhang , Aug 30 at 9:20am
+> Storyboards are super clear and detailed in every function and scenario. Michael's idea is brilliant and can be really helpful for people to track their productivity and time management. Using Alexa to control the tool is very smart and convenient. This is really functional and can be used in many circumstances.
+
+Rahul Jain , Aug 30 at 11:33am
+> Hi - I think this is a great idea. I thought it was clear how the user could look at the light coming from their keyboard/mouse to understand how many tasks are remaining. One idea I have for you is to maybe incorporate how much time each of those tasks could take, sort of like a weighting. Great job!
+
+Aashika Perunkolam , Sep 1 at 9:25am
+> You could add a sound alert for time-critical tasks on the to do list and have a color to specifically tell the user to prioritize that particular task.
+
+
 ## Make it your own
 
 Do last week’s assignment again, but this time: 
