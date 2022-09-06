@@ -212,19 +212,19 @@ Do last week’s assignment again, but this time:
 
 \*\***Include pictures of your storyboards here**\*\*
 
-![Page1](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/daa131d34328e92905e4bf5bf8130da0ee60124d/Lab%201/Lab%201%20-%20Storyboards/Storyboards%20Part%202/Page1.png)
+![Page1](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/9b6cc6b571285ef6d8fa3371ad65a1a57e94000f/Lab%201/Lab%201%20-%20Storyboards/Storyboards%20Part%202/Page1.png)
 
-![Page2](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/daa131d34328e92905e4bf5bf8130da0ee60124d/Lab%201/Lab%201%20-%20Storyboards/Storyboards%20Part%202/Page2.png)
+![Page2](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/9b6cc6b571285ef6d8fa3371ad65a1a57e94000f/Lab%201/Lab%201%20-%20Storyboards/Storyboards%20Part%202/Page2.png)
 
-![Page3](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/daa131d34328e92905e4bf5bf8130da0ee60124d/Lab%201/Lab%201%20-%20Storyboards/Storyboards%20Part%202/Page3.png)
+![Page3](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/9b6cc6b571285ef6d8fa3371ad65a1a57e94000f/Lab%201/Lab%201%20-%20Storyboards/Storyboards%20Part%202/Page3.png)
 
-![Page4](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/daa131d34328e92905e4bf5bf8130da0ee60124d/Lab%201/Lab%201%20-%20Storyboards/Storyboards%20Part%202/Page4.png)
+![Page4](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/9b6cc6b571285ef6d8fa3371ad65a1a57e94000f/Lab%201/Lab%201%20-%20Storyboards/Storyboards%20Part%202/Page4.png)
 
-![Page5](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/daa131d34328e92905e4bf5bf8130da0ee60124d/Lab%201/Lab%201%20-%20Storyboards/Storyboards%20Part%202/Page5.png)
+![Page5](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/9b6cc6b571285ef6d8fa3371ad65a1a57e94000f/Lab%201/Lab%201%20-%20Storyboards/Storyboards%20Part%202/Page5.png)
 
-![Page6](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/daa131d34328e92905e4bf5bf8130da0ee60124d/Lab%201/Lab%201%20-%20Storyboards/Storyboards%20Part%202/Page6.png)
+![Page6](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/9b6cc6b571285ef6d8fa3371ad65a1a57e94000f/Lab%201/Lab%201%20-%20Storyboards/Storyboards%20Part%202/Page6.png)
 
-![Page7](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/daa131d34328e92905e4bf5bf8130da0ee60124d/Lab%201/Lab%201%20-%20Storyboards/Storyboards%20Part%202/Page7.png)
+![Page7](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/9b6cc6b571285ef6d8fa3371ad65a1a57e94000f/Lab%201/Lab%201%20-%20Storyboards/Storyboards%20Part%202/Page7.png)
 
 > New Modality & Functionality 
 [![KeyboardChange](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/6f696d68a43f9d8adf4f16df58f1228720e9b7b0/Lab%201/Lab%201%20-%20Storyboards/Part%202.png)](https://drive.google.com/file/d/1k2Ytwcxr6ewnEFJAh8WakBPEa1rj0uya/view?usp=sharing)
