@@ -207,7 +207,7 @@ Do last week’s assignment again, but this time:
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
 
-> For part 2, I have retained my original idea, which is an interactive device that serves as a Smart Productivity tool that uses light to denote the progress of one's workload, but this time, I have also added sound and vibration. The idea is that people who are working or studying need to be alerted to a certain sign; they might be too much in the zone to pay attention to say a color - especially if they have headphones in. Therefore, it would not only change hue based on how much work is left on the integrated to-do list (e.g., red -> yellow -> green), nor just change in the intensity of its color based on the time spent on those tasks, but also vibrate and beep to further alert the user what had occurred. 
+> For part 2, I have retained my original idea, which is an interactive device that serves as a Smart Productivity tool that uses light to denote the progress of one's workload, but this time, I have also added sound and vibration. The idea is that people who are working or studying need to be alerted to a certain sign; they might be too much in the zone to pay attention to say a color - especially if they have headphones in. Therefore, it would not only change hue based on how much work is left on the integrated to-do list (e.g., red -> yellow -> green), nor just change in the intensity of its color based on the time spent on those tasks, but also vibrate and beep to further alert the user what had occurred. Additionally, I have added a more interesting light color to signify events - for example, when it's time to take a break, the light would wave across the device; if the system is being shut on or off, it would utilize a spectrum of colors. 
 
 
 \*\***Include pictures of your storyboards here**\*\*
@@ -226,3 +226,5 @@ Do last week’s assignment again, but this time:
 
 ![Page7](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/daa131d34328e92905e4bf5bf8130da0ee60124d/Lab%201/Lab%201%20-%20Storyboards/Storyboards%20Part%202/Page7.png)
 
+> New Modality & Functionality 
+[![KeyboardChange](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/6f696d68a43f9d8adf4f16df58f1228720e9b7b0/Lab%201/Lab%201%20-%20Storyboards/Part%202.png)](https://drive.google.com/file/d/1k2Ytwcxr6ewnEFJAh8WakBPEa1rj0uya/view?usp=sharing)
