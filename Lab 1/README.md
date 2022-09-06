@@ -257,7 +257,7 @@ Do last week’s assignment again, but this time:
 
 ![sketch2](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/6ca0690a32d96a7b949f8614fbef9df16b0dd556/Lab%201/Lab%201%20-%20Storyboards/Costumes%20Part%202/Page2.png)
 
-![sketch3](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/6ca0690a32d96a7b949f8614fbef9df16b0dd556/Lab%201/Lab%201%20-%20Storyboards/Costumes%20Part%202/Page1.png)
+![sketch3](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/6ca0690a32d96a7b949f8614fbef9df16b0dd556/Lab%201/Lab%201%20-%20Storyboards/Costumes%20Part%202/Page3.png)
 
 > I added hardware for sound and vibration vs. Part 1
 
