@@ -205,6 +205,8 @@ Do last week’s assignment again, but this time:
 2) You can use any modality (e.g., vibration, sound) to prototype the behaviors! Again, be creative! Feel free to fork and modify the tinkerbell code! 
 3) We will be grading with an emphasis on creativity. 
 
+## Part A. Plan 
+
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
 
 > For part 2, I have retained my original idea, which is an interactive device that serves as a Smart Productivity tool that uses light to denote the progress of one's workload, but this time, I have also added sound and vibration. The idea is that people who are working or studying need to be alerted to a certain sign; they might be too much in the zone to pay attention to say a color - especially if they have headphones in. Therefore, it would not only change hue based on how much work is left on the integrated to-do list (e.g., red -> yellow -> green), nor just change in the intensity of its color based on the time spent on those tasks, but also vibrate and beep to further alert the user what had occurred. Additionally, I have added a more interesting light color to signify events - for example, when it's time to take a break, the light would wave across the device; if the system is being shut on or off, it would utilize a spectrum of colors. 
@@ -228,6 +230,28 @@ Do last week’s assignment again, but this time:
 
 ![Page7](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/9b6cc6b571285ef6d8fa3371ad65a1a57e94000f/Lab%201/Lab%201%20-%20Storyboards/Storyboards%20Part%202/Page7.png)
 
+## Part B. Act out the Interaction
+
+\*\***Are there things that seemed better on paper than acted out?**\*\*
+
+> Similar to the things I've considered in Part 1, I think that the functionality seemed quite simple and straight forward, but in reality, there's many moving parts and thus many points of failure. Still, I found that connecting my phone to Alexa and the Razer hardware would oftentimes go offline. Additionally, there tends to be a lag when setting up the connection; this would have to be alleviated if it were to go to market. 
+
+\*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
+
+> Not particularly, we had come up with many ideas prior to the acting and thus there was not much more ideation at this time.
+
+## Part C. Prototype the device
+
+\*\***Give us feedback on Tinkerbelle.**\*\*
+
+> I would love for Tinkerbelle to also include ways to integrate with iOS to influence vibration or sound. That way, for part 2, we could really have a streamlined way of making an interesting product demo.
+
+## Part D. Wizard the device
+
+> This part remains the same from Part 1 for me; the interactivity is still the same. The vibration / sound were stuff I had to "fake" via my Apple Watch and calling myself. 
+
+## Part E. Costume the device
+
 \*\***Include sketches of what your devices might look like here.**\*\*
 ![sketch1](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/6ca0690a32d96a7b949f8614fbef9df16b0dd556/Lab%201/Lab%201%20-%20Storyboards/Costumes%20Part%202/Page1.png)
 
@@ -235,5 +259,11 @@ Do last week’s assignment again, but this time:
 
 ![sketch3](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/6ca0690a32d96a7b949f8614fbef9df16b0dd556/Lab%201/Lab%201%20-%20Storyboards/Costumes%20Part%202/Page1.png)
 
+> I added hardware for sound and vibration vs. Part 1
+
+## Part F. Record
+
 > New Modality & Functionality 
 [![KeyboardChange](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/6f696d68a43f9d8adf4f16df58f1228720e9b7b0/Lab%201/Lab%201%20-%20Storyboards/Part%202.png)](https://drive.google.com/file/d/1k2Ytwcxr6ewnEFJAh8WakBPEa1rj0uya/view?usp=sharing)
+
+> The other videos I put in part 1 still apply; I added this piece to further showcase the interesting ways we can notify users what phase they're in with respect to their to-do list. 
