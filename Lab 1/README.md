@@ -209,6 +209,8 @@ Do last week’s assignment again, but this time:
 
 > For part 2, I have retained my original idea, which is an interactive device that serves as a Smart Productivity tool that uses light to denote the progress of one's workload, but this time, I have also added sound and vibration. The idea is that people who are working or studying need to be alerted to a certain sign; they might be too much in the zone to pay attention to say a color - especially if they have headphones in. Therefore, it would not only change hue based on how much work is left on the integrated to-do list (e.g., red -> yellow -> green), nor just change in the intensity of its color based on the time spent on those tasks, but also vibrate and beep to further alert the user what had occurred. Additionally, I have added a more interesting light color to signify events - for example, when it's time to take a break, the light would wave across the device; if the system is being shut on or off, it would utilize a spectrum of colors. 
 
+> Please note that most of the existing functionality are retained with this part 2 of the lab; the functionality is improved incrementally - therefore, in this section, I am showcasing the sections that highlight the incremental features (i.e., storyboards, sketches, functionality)
+
 
 \*\***Include pictures of your storyboards here**\*\*
 
@@ -225,6 +227,13 @@ Do last week’s assignment again, but this time:
 ![Page6](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/9b6cc6b571285ef6d8fa3371ad65a1a57e94000f/Lab%201/Lab%201%20-%20Storyboards/Storyboards%20Part%202/Page6.png)
 
 ![Page7](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/9b6cc6b571285ef6d8fa3371ad65a1a57e94000f/Lab%201/Lab%201%20-%20Storyboards/Storyboards%20Part%202/Page7.png)
+
+\*\***Include sketches of what your devices might look like here.**\*\*
+![sketch1](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/6ca0690a32d96a7b949f8614fbef9df16b0dd556/Lab%201/Lab%201%20-%20Storyboards/Costumes%20Part%202/Page1.png)
+
+![sketch2](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/6ca0690a32d96a7b949f8614fbef9df16b0dd556/Lab%201/Lab%201%20-%20Storyboards/Costumes%20Part%202/Page2.png)
+
+![sketch3](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/6ca0690a32d96a7b949f8614fbef9df16b0dd556/Lab%201/Lab%201%20-%20Storyboards/Costumes%20Part%202/Page1.png)
 
 > New Modality & Functionality 
 [![KeyboardChange](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/6f696d68a43f9d8adf4f16df58f1228720e9b7b0/Lab%201/Lab%201%20-%20Storyboards/Part%202.png)](https://drive.google.com/file/d/1k2Ytwcxr6ewnEFJAh8WakBPEa1rj0uya/view?usp=sharing)
