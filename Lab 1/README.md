@@ -230,6 +230,14 @@ Do last week’s assignment again, but this time:
 
 ![Page7](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/9b6cc6b571285ef6d8fa3371ad65a1a57e94000f/Lab%201/Lab%201%20-%20Storyboards/Storyboards%20Part%202/Page7.png)
 
+\*\***Summarize feedback you got here.**\*\*
+
+Calvin Tirrell: 
+> This was a good improvement from last time! I would use it.
+
+Brian Mulyadi:
+> Still looks good, and I can see why you changed the functionality for people who may not notice these cues very well. 
+
 ## Part B. Act out the Interaction
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
@@ -250,6 +258,17 @@ Do last week’s assignment again, but this time:
 
 > This part remains the same from Part 1 for me; the interactivity is still the same. The vibration / sound were stuff I had to "fake" via my Apple Watch and calling myself. 
 
+\*\***Include your first attempts at recording the set-up video here.**\*\*
+
+[![WizardDeviceVideo](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/86a3c327eebbf25ee950b2729b0d0babd8f87f40/Lab%201/Lab%201%20-%20Storyboards/WizardDeviceScreenCap.png)](https://drive.google.com/file/d/15V_cmwZjicd1kwCpcrKrhP4gITB2rjh8/view?usp=sharing)
+
+Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
+
+\*\***Show the follow-up work here.**\*\*
+
+![FollowUpWork](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/19b6a758ae31a0c581984195d45fccc460187a28/Lab%201/Lab%201%20-%20Storyboards/Lab%201%20-%20Costumed%20Device%20Sketches.png)
+
+
 ## Part E. Costume the device
 
 \*\***Include sketches of what your devices might look like here.**\*\*
@@ -265,5 +284,14 @@ Do last week’s assignment again, but this time:
 
 > New Modality & Functionality 
 [![KeyboardChange](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/6f696d68a43f9d8adf4f16df58f1228720e9b7b0/Lab%201/Lab%201%20-%20Storyboards/Part%202.png)](https://drive.google.com/file/d/1k2Ytwcxr6ewnEFJAh8WakBPEa1rj0uya/view?usp=sharing)
+
+> Keyboard Change
+[![KeyboardChange](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/c8bc7a718f213c8d0cfa2309002e803db6d35b39/Lab%201/Lab%201%20-%20Storyboards/Wizard.png)](https://drive.google.com/file/d/1daSk7Bp7CCZrERIpEoBXmPk8kIgIv8r-/view?usp=sharing)
+
+> Productivity Timer
+[![ProductivityTimer](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/c8bc7a718f213c8d0cfa2309002e803db6d35b39/Lab%201/Lab%201%20-%20Storyboards/Productivity%20Tracker.png)](https://drive.google.com/file/d/1YjNcWjwkb1Amy4rgknBMGxFXj_rpNQ76/view?usp=sharing)
+
+> Alexa Task Updater
+[![TaskUpdater](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/c8bc7a718f213c8d0cfa2309002e803db6d35b39/Lab%201/Lab%201%20-%20Storyboards/Task%20Completed.png)](https://drive.google.com/file/d/1szP6W1vxUsPLA2dqktGdy4EjYC0Eta81/view?usp=sharing)
 
 > The other videos I put in part 1 still apply; I added this piece to further showcase the interesting ways we can notify users what phase they're in with respect to their to-do list. 
