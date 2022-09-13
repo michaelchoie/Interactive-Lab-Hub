@@ -3,7 +3,9 @@ import subprocess
 import digitalio
 import board
 from PIL import Image, ImageDraw, ImageFont
+from adafruit_rgb_display.rgb import color565
 import adafruit_rgb_display.st7789 as st7789
+from datetime import datetime, timedelta
 
 # Configuration for CS and DC pins (these are FeatherWing defaults on M0/M4):
 cs_pin = digitalio.DigitalInOut(board.CE0)
@@ -54,6 +56,7 @@ x = 0
 # same directory as the python script!
 # Some other nice fonts to try: http://www.dafont.com/bitmap.php
 font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 18)
+font_large = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 32)
 
 # Turn on the backlight
 backlight = digitalio.DigitalInOut(board.D22)
@@ -67,18 +70,18 @@ buttonB = digitalio.DigitalInOut(board.D24)
 buttonA.switch_to_input()
 buttonB.switch_to_input()
 
+
 # NEW
-# get a color from the user
-graduationDate = None
-while not graduationDate:
+# Graduation Date = May 20, 2023
+graduationDate = datetime.strptime("06/20/2023", "%m/%d/%Y")
+cornellTech = None
+
+while not cornellTech:
     try:
-        # get a color from the user and convert it to RGB
-        intro = input("Hi, I am your personal accountability clock. You are a student at Cornell Tech?")
-        graduationDate = input("When do you graduate?")
-        # screenColor = color565(*list(webcolors.name_to_rgb(input('Type the name of a color and hit enter: '))))
+        # Confirm if student is Cornellian!
+        cornellTech = input("Hi, I am your personal accountability clock. You are a student at Cornell Tech? \n")
     except ValueError:
-        # catch colors we don't recognize and go again
-        print("whoops I don't know that one")
+        print("whoops!")
 
 
 # NEW
@@ -91,21 +94,54 @@ while True:
     DATE = time.strftime("%m/%d/%Y")
     TIME = time.strftime("%H:%M:%S")
 
-    if buttonA.value and buttonB.value:
-        backlight.value = False  # turn off backlight
-    else:
-        backlight.value = True  # turn on backlight
-    if buttonB.value and not buttonA.value:  # just button A pressed
+    #if buttonA.value and buttonB.value:
+    #    backlight.value = False  # turn off backlight
+    #else:
+    #backlight.value = True  # turn on backlight
+    
+    if not buttonA.value and not buttonB.value:  # none pressed
+        # disp.fill(color565(0, 255, 0))  # green
         y = top
         draw.text((x,y), DATE, font=font, fill="#FFFFFF")
         y += font.getsize(DATE)[1]
-        draw.text((x,y), DATE, font=font, fill="#FFFFFF")
-        # display.fill(screenColor) # set the screen to the users color
-    if buttonA.value and not buttonB.value:  # just button B pressed
-        display.fill(color565(255, 255, 255))  # set the screen to white
-    if not buttonA.value and not buttonB.value:  # none pressed
-        display.fill(color565(0, 255, 0))  # green
+        draw.text((x,y), TIME, font=font, fill="#FFFFFF")
+        y += font.getsize(TIME)[1]
 
+    if buttonB.value and not buttonA.value:  # just button A pressed
+        y = top
+        draw.text((x,y), "You have...", font=font, fill="#FFFFFF")
+        y += font.getsize("You have...")[1]
+
+        remainingWeeks = round((graduationDate - datetime.strptime(DATE, "%m/%d/%Y")).total_seconds()/(60*60*24*7))
+        draw.text((x,y),f"{remainingWeeks} Weeks", font=font_large, fill="#FFFFFF")
+        y += font_large.getsize("50 Weeks")[1]
+
+        #draw.text((x,y), DATE, font=font, fill="#FFFFFF")
+        draw.text((x,y), "Until you graduate!", font=font, fill="#FFFFFF")
+        y += font.getsize("Until you graduate!")[1]
+
+        # display.fill(screenColor) # set the screen to the users color
+
+    if buttonA.value and not buttonB.value:  # just button B pressed
+        image = Image.open("red.jpg")
+        image_ratio = image.width / image.height
+        screen_ratio = width / height
+        if screen_ratio < image_ratio:
+            scaled_width = image.width * height // image.height
+            scaled_height = height
+        else:
+            scaled_width = width
+            scaled_height = image.height * width // image.width
+
+        image = image.resize((scaled_width, scaled_height), Image.BICUBIC)
+
+        # Crop and center the image
+        x = scaled_width // 2 - width // 2
+        y = scaled_height // 2 - height // 2
+        image = image.crop((x, y, x + width, y + height))
+
+    # if not buttonA.value and not buttonB.value:  # none pressed
+    #    disp.fill(color565(0, 255, 0))  # green
 
     """
     draw.text((x, y), USD, font=font, fill="#0000FF")
@@ -115,4 +151,4 @@ while True:
 
     # Display image.
     disp.image(image, rotation)
-    time.sleep(1)
+    time.sleep(0.1)
