@@ -60,11 +60,58 @@ backlight = digitalio.DigitalInOut(board.D22)
 backlight.switch_to_output()
 backlight.value = True
 
+# NEW
+# these setup the code for our buttons and the backlight and tell the pi to treat the GPIO pins as digitalIO vs analogIO
+buttonA = digitalio.DigitalInOut(board.D23)
+buttonB = digitalio.DigitalInOut(board.D24)
+buttonA.switch_to_input()
+buttonB.switch_to_input()
+
+# NEW
+# get a color from the user
+graduationDate = None
+while not graduationDate:
+    try:
+        # get a color from the user and convert it to RGB
+        intro = input("Hi, I am your personal accountability clock. You are a student at Cornell Tech?")
+        graduationDate = input("When do you graduate?")
+        # screenColor = color565(*list(webcolors.name_to_rgb(input('Type the name of a color and hit enter: '))))
+    except ValueError:
+        # catch colors we don't recognize and go again
+        print("whoops I don't know that one")
+
+
+# NEW
+# Main Loop
 while True:
     # Draw a black filled box to clear the image.
     draw.rectangle((0, 0, width, height), outline=0, fill=0)
 
     #TODO: Lab 2 part D work should be filled in here. You should be able to look in cli_clock.py and stats.py 
+    DATE = time.strftime("%m/%d/%Y")
+    TIME = time.strftime("%H:%M:%S")
+
+    if buttonA.value and buttonB.value:
+        backlight.value = False  # turn off backlight
+    else:
+        backlight.value = True  # turn on backlight
+    if buttonB.value and not buttonA.value:  # just button A pressed
+        y = top
+        draw.text((x,y), DATE, font=font, fill="#FFFFFF")
+        y += font.getsize(DATE)[1]
+        draw.text((x,y), DATE, font=font, fill="#FFFFFF")
+        # display.fill(screenColor) # set the screen to the users color
+    if buttonA.value and not buttonB.value:  # just button B pressed
+        display.fill(color565(255, 255, 255))  # set the screen to white
+    if not buttonA.value and not buttonB.value:  # none pressed
+        display.fill(color565(0, 255, 0))  # green
+
+
+    """
+    draw.text((x, y), USD, font=font, fill="#0000FF")
+    y += font.getsize(USD)[1]
+    draw.text((x, y), Temp, font=font, fill="#FF00FF
+    """
 
     # Display image.
     disp.image(image, rotation)
