@@ -132,6 +132,7 @@ while True:
         x = 0
 
     if buttonB.value and not buttonA.value:  # just button A pressed
+        disp.fill(color565(0, 255, 0))
         y = top
         draw.text((x,y), "You have...", font=font, fill="#FFFFFF")
         y += font.getsize("You have...")[1]
