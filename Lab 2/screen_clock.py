@@ -94,18 +94,42 @@ while True:
     DATE = time.strftime("%m/%d/%Y")
     TIME = time.strftime("%H:%M:%S")
 
-    #if buttonA.value and buttonB.value:
-    #    backlight.value = False  # turn off backlight
-    #else:
-    #backlight.value = True  # turn on backlight
-    
-    if not buttonA.value and not buttonB.value:  # none pressed
-        # disp.fill(color565(0, 255, 0))  # green
+    if buttonA.value and buttonB.value: # none pressed
         y = top
-        draw.text((x,y), DATE, font=font, fill="#FFFFFF")
+        draw.text((x,y), DATE, font=font_large, fill="#FFFFFF")
+        y += font_large.getsize(DATE)[1]
+        draw.text((x,y), TIME, font=font_large, fill="#FFFFFF")
+        y += font_large.getsize(TIME)[1]
         y += font.getsize(DATE)[1]
-        draw.text((x,y), TIME, font=font, fill="#FFFFFF")
+        draw.text((x,y), "A: Weekends Left!", font=font, fill="#FFFFFF")
+        y += font.getsize(DATE)[1]
+        draw.text((x,y), "B: Weekend Activity!", font=font, fill="#FFFFFF")
         y += font.getsize(TIME)[1]
+
+    else:
+        backlight.value = True  # turn on backlight
+
+    if not buttonA.value and not buttonB.value:  # both pressed
+        # Create blank image for drawing.
+        # Make sure to create image with mode 'RGB' for full color.
+        height = disp.width  # we swap height/width to rotate it to landscape!
+        width = disp.height
+        image = Image.new("RGB", (width, height))
+        rotation = 90
+
+        # Get drawing object to draw on image.
+        draw = ImageDraw.Draw(image)
+
+        # Draw a black filled box to clear the image.
+        draw.rectangle((0, 0, width, height), outline=0, fill=(0, 0, 0))
+        disp.image(image, rotation)
+        # Draw some shapes.
+        # First define some constants to allow easy resizing of shapes.
+        padding = -2
+        top = padding
+        bottom = height - padding
+        # Move left to right keeping track of the current x position for drawing shapes.
+        x = 0
 
     if buttonB.value and not buttonA.value:  # just button A pressed
         y = top
@@ -119,11 +143,14 @@ while True:
         #draw.text((x,y), DATE, font=font, fill="#FFFFFF")
         draw.text((x,y), "Until you graduate!", font=font, fill="#FFFFFF")
         y += font.getsize("Until you graduate!")[1]
+        
+        y += font.getsize("Until you graduate!")[1]
+        draw.text((x,y), "Time to Party!", font=font_large, fill="#FFFFFF")
+        y += font_large.getsize("Time to Party!")[1]
 
-        # display.fill(screenColor) # set the screen to the users color
 
     if buttonA.value and not buttonB.value:  # just button B pressed
-        image = Image.open("red.jpg")
+        image = Image.open("dancing.jpeg")
         image_ratio = image.width / image.height
         screen_ratio = width / height
         if screen_ratio < image_ratio:
@@ -140,14 +167,6 @@ while True:
         y = scaled_height // 2 - height // 2
         image = image.crop((x, y, x + width, y + height))
 
-    # if not buttonA.value and not buttonB.value:  # none pressed
-    #    disp.fill(color565(0, 255, 0))  # green
-
-    """
-    draw.text((x, y), USD, font=font, fill="#0000FF")
-    y += font.getsize(USD)[1]
-    draw.text((x, y), Temp, font=font, fill="#FF00FF
-    """
 
     # Display image.
     disp.image(image, rotation)
