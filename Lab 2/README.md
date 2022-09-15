@@ -213,6 +213,11 @@ After that, Git will ask you to login to your GitHub account to push the updates
 ## Part G. 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
 
+![sketch1](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/d490c625c0e21e6222afbb37b2034dd0a8e3f5ec/Lab%202/Lab%202%20Ideas/Page1.png)
+![sketch2](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/d490c625c0e21e6222afbb37b2034dd0a8e3f5ec/Lab%202/Lab%202%20Ideas/Page2.png)
+![sketch3](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/d490c625c0e21e6222afbb37b2034dd0a8e3f5ec/Lab%202/Lab%202%20Ideas/Page3.png)
+![sketch4](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/d490c625c0e21e6222afbb37b2034dd0a8e3f5ec/Lab%202/Lab%202%20Ideas/Page4.png)
+![sketch5](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/d490c625c0e21e6222afbb37b2034dd0a8e3f5ec/Lab%202/Lab%202%20Ideas/Page5.png)
 
 # Prep for Part 2
 
