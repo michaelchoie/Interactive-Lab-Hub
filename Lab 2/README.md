@@ -214,6 +214,11 @@ After that, Git will ask you to login to your GitHub account to push the updates
 ## Part G. 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
 
+![sketch1](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/d490c625c0e21e6222afbb37b2034dd0a8e3f5ec/Lab%202/Lab%202%20Ideas/Page1.png)
+![sketch2](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/d490c625c0e21e6222afbb37b2034dd0a8e3f5ec/Lab%202/Lab%202%20Ideas/Page2.png)
+![sketch3](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/d490c625c0e21e6222afbb37b2034dd0a8e3f5ec/Lab%202/Lab%202%20Ideas/Page3.png)
+![sketch4](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/d490c625c0e21e6222afbb37b2034dd0a8e3f5ec/Lab%202/Lab%202%20Ideas/Page4.png)
+![sketch5](https://github.com/michaelchoie/Interactive-Lab-Hub/blob/d490c625c0e21e6222afbb37b2034dd0a8e3f5ec/Lab%202/Lab%202%20Ideas/Page5.png)
 
 # Prep for Part 2
 
@@ -233,3 +238,6 @@ As always, make sure you document contributions and ideas from others explicitly
 You are permitted (but not required) to work in groups and share a turn in; you are expected to make equal contribution on any group work you do, and N people's group project should look like N times the work of a single person's lab. What each person did should be explicitly documented. Make sure the page for the group turn in is linked to your Interactive Lab Hub page. 
 
 
+> I had gotten feedback from multiple people in the class, including Brian Mulyadi, Calvin Tirrell, Jason Kwon, and Lineker Ono. They were all receptive to my Pi Clock idea; a few of them suggested I could make the picture component a GIF, while others had suggested that I expand the weeks-remaining countdown to correspond to other events such as midterms / finals week and an accompanying message / picture. 
+
+> Albeit I came up with numerous interesting ideas to include for my Pi Clock (as seen in the sketches above), I deemed that sometimes simpler is better. The background picture idea was interesting, but ultimately, I found that the pictures made the text difficult to read (as in, it distracted from the main use case of the clock). I had kept my existing user experience (which can be seen in my first sketch and demo video). 
